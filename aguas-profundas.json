@@ -1,0 +1,1211 @@
+{
+  "id": "aguas-profundas",
+  "theme": "Águas Profundas",
+  "explores": "o lado mais corajoso e vulnerável: feridas, arrependimentos, verdades e o que custa dizer — para quem já se conhece",
+  "color": "#E2D6CE",
+  "textColor": "#4A2E22",
+  "accent": "#A85C3C",
+  "symbol": "🌊",
+  "cards": [
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você as pessoas mais demoram a descobrir?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento mais solitário da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você nunca conseguiu dizer para a pessoa certa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mágoa você ainda carrega sem que ninguém saiba?"
+    },
+    {
+      "type": "question",
+      "text": "Qual decisão você mais se arrepende de ter tomado?"
+    },
+    {
+      "type": "question",
+      "text": "O que você faria diferente se pudesse voltar dez anos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você morreu em algum momento da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa difícil você está adiando há tempo demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que descubram sobre você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual perda mudou você para sempre?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior arrependimento em uma relação?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda não se perdoou por ter feito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sonho você abandonou e ainda sente falta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você mais se sentiu traído?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisava ter ouvido em um momento difícil e não ouviu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação você gostaria de ter salvado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre a sua vida você custa a aceitar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde por trás da sua aparente força?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu mais frágil?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te impediu de viver algo que você queria muito?"
+    },
+    {
+      "type": "question",
+      "text": "O que você diria para alguém que já partiu, se pudesse?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua vida você sente que desperdiçou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual segredo você guarda que pesa em você?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa confessar a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior decepção que você causou em alguém?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que aconteça com as suas relações mais importantes?"
+    },
+    {
+      "type": "question",
+      "text": "Qual ferida da infância ainda afeta você hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você se sentiu mais incompreendido?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter feito com mais coragem?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo a respeito de morrer?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amor você nunca admitiu sentir?"
+    },
+    {
+      "type": "question",
+      "text": "O que você fingiu não se importar quando na verdade doía?"
+    },
+    {
+      "type": "question",
+      "text": "Qual momento da sua vida você gostaria de apagar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você esconde até de quem te ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa fazer as pazes?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você decepcionou a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade dolorosa te tornou uma pessoa melhor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme não conseguir realizar antes de morrer?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te ensinou mais sobre dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde para não parecer fraco?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você quase desistiu de tudo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual culpa você carrega que talvez não fosse sua?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que alguém tivesse percebido em você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior mentira que você contou para se proteger?"
+    },
+    {
+      "type": "question",
+      "text": "O que mais te assusta a respeito de quem você está se tornando?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você teme estar perdendo com o tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a despedida mais difícil da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa soltar para finalmente seguir em frente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu invisível?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre o amor você aprendeu da pior maneira?"
+    },
+    {
+      "type": "question",
+      "text": "O que você quer ouvir de alguém deste grupo mas nunca pediu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual qualidade você admira em alguém aqui e nunca disse?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que entendêssemos sobre você agora?"
+    },
+    {
+      "type": "question",
+      "text": "Em que momento você quase se afastou de alguém deste grupo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa você gostaria de ter tido comigo antes?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa de mim que nunca soube pedir?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você mais precisou de apoio e ficou em silêncio?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que eu pense de você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lado seu você acha que eu ainda não conheço?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de me agradecer e nunca disse?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mágoa entre nós você gostaria de resolver?"
+    },
+    {
+      "type": "question",
+      "text": "O que você admira em mim que nunca verbalizou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que eu te decepcionei sem saber?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de me perguntar mas tem medo da resposta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da nossa história você mais valoriza?"
+    },
+    {
+      "type": "question",
+      "text": "O que dá sentido à sua vida quando tudo parece sem sentido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sofrimento te transformou em quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "O que você descobriu sobre si nos seus momentos mais escuros?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o preço mais alto que você pagou por uma escolha?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que defina a sua vida no fim?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você foi moldada pela dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisaria fazer para viver em paz consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você você só admite na madrugada?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que está fingindo para o mundo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você mais se sentiu vivo, mesmo doendo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter coragem de mudar agora?"
+    },
+    {
+      "type": "question",
+      "text": "Qual perda ainda te visita em sonhos?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sacrificou e ainda questiona se valeu a pena?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você ainda está esperando ser aceita?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme repetir dos seus pais?"
+    },
+    {
+      "type": "question",
+      "text": "Qual ferida você esconde melhor que ninguém imagina?"
+    },
+    {
+      "type": "question",
+      "text": "O que você diria para a sua versão mais machucada?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você percebeu que cresceu pela dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda não conseguiu chorar de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual silêncio na sua vida pesa mais que qualquer briga?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que seja tarde demais para resolver?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre as suas relações você evita encarar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter dito antes de ser tarde?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você matou para sobreviver a algo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde porque acha que ninguém entenderia?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo seu é tão antigo que virou parte de você?"
+    },
+    {
+      "type": "question",
+      "text": "O que você daria para reviver um único momento perdido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual culpa você gostaria de finalmente colocar para baixo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando pensa nas pessoas que se foram?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre o seu valor você ainda não acredita?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa ouvir para se sentir finalmente perdoado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior coragem silenciosa da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que as pessoas vejam quando baixa a guarda?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te marcou tanto que mudou o seu jeito de amar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda espera de uma reconciliação que talvez não venha?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua história você nunca contou em voz alta?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que sempre teve que carregar sozinho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade você descobriu tarde demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter feito enquanto ainda dava tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de ser esquecido?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa confessar para ficar leve?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amor não correspondido mais te marcou?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda guarda de alguém que não está mais na sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você só apareceu depois de uma grande dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que seja a sua maior falha?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre a felicidade você só entendeu sofrendo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você faria se soubesse que ninguém te julgaria jamais?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa com você mesmo você vem evitando?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa aceitar para parar de se machucar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo a respeito de amar alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A coisa que nunca contei a ninguém é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu ainda não me perdoei por...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que mais me assusta na minha vida é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Se eu fosse honesto comigo mesmo, eu admitiria que...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A pessoa que mais me faz falta é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu finjo ter superado, mas...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que eu mais temo ouvir é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A maior dor que carrego em silêncio é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu gostaria de ter tido coragem de...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A verdade que evito encarar é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que eu daria tudo para mudar é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'No fundo, eu ainda espero que...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu me sinto sozinho quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A última vez que chorei de verdade foi por...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu nunca disse, mas sempre senti que...'"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte do seu passado ainda controla o seu presente?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de gritar mas sempre engole?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação você terminou e ainda se pergunta 'e se'?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que aconteça se mostrar quem você é de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu mais abandonado?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde atrás do seu humor ou da sua leveza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você você só revela depois de muita confiança?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa provar para alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te faz se afastar das pessoas?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de reescrever na sua história?"
+    },
+    {
+      "type": "question",
+      "text": "Qual perdão você ainda não conseguiu dar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando está completamente sozinho com seus pensamentos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você mais precisou de ajuda e não pediu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme estar transmitindo para quem você ama?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sonho você enterrou por medo de não ser bom o suficiente?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de dizer ao seu maior arrependimento?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você esconde por vergonha?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que a vida te tirou cedo demais?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa difícil mudaria tudo se você tivesse coragem?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa parar de fingir que não te afeta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior prova de coragem da sua vida que ninguém viu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter chorado e segurou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te ensinou quem você não quer mais ser?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que seja verdade sobre você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual culpa você carrega que merece ser solta?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que falta para você se sentir completo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se reconstruiu do zero?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde de quem mais te ama, por medo de magoar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre o tempo você só entendeu vendo alguém partir?"
+    },
+    {
+      "type": "question",
+      "text": "O que você faria se este fosse o seu último ano de vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você ainda está esperando um pedido de desculpas?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa aceitar sobre alguém que você ama?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez que você se sentiu mais perdido?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme nunca conseguir dizer em voz alta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual ferida sua ainda dói quando alguém toca sem querer?"
+    },
+    {
+      "type": "question",
+      "text": "O que você daria para ter mais um dia com alguém que partiu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você mesmo você está pronto para encarar hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa deixar ir de uma vez por todas?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você mais se decepcionou com a vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que as pessoas perdoassem em você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te visita sempre que você fica feliz demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda deve a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua dor você transformou em algo bonito?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que aconteça se parar de se cobrar tanto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade você finalmente está pronto para dizer?"
+    },
+    {
+      "type": "dare",
+      "text": "Diga em voz alta uma coisa que você nunca contou a ninguém deste grupo."
+    },
+    {
+      "type": "dare",
+      "text": "Olhe nos olhos de alguém do grupo e diga algo verdadeiro que você nunca disse."
+    },
+    {
+      "type": "dare",
+      "text": "Mande agora uma mensagem para alguém de quem você sente falta."
+    },
+    {
+      "type": "dare",
+      "text": "Conte sobre uma cicatriz emocional que te tornou quem você é."
+    },
+    {
+      "type": "dare",
+      "text": "Peça desculpas em voz alta por algo que ainda te pesa."
+    },
+    {
+      "type": "dare",
+      "text": "Agradeça sinceramente a alguém do grupo por algo específico."
+    },
+    {
+      "type": "dare",
+      "text": "Compartilhe um arrependimento que você nunca admitiu."
+    },
+    {
+      "type": "dare",
+      "text": "Diga a si mesmo, em voz alta, algo que você precisa se perdoar."
+    },
+    {
+      "type": "dare",
+      "text": "Conte um medo que você esconde de todo mundo."
+    },
+    {
+      "type": "dare",
+      "text": "Revele um sonho que você tem vergonha de admitir."
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter dito enquanto ainda havia tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre a sua vida você só admite em voz baixa?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter feito antes que fosse tarde?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te ensinou a maior lição pela dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda carrega de alguém que te machucou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu mais sozinho no mundo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde porque tem medo de ser julgado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual decisão você tomou por medo e ainda questiona?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de gritar para o seu passado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual ferida sua ninguém imagina que ainda existe?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa confessar para finalmente ficar em paz?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amor você guardou e nunca teve coragem de revelar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que aconteça se mostrar a sua fragilidade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior traição que você sofreu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter dito a alguém que partiu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua história você nunca contou para ninguém?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda não se perdoou por ter feito ou deixado de fazer?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você quase desistiu de você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você finge que superou mas ainda dói?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sonho você enterrou por medo de fracassar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que seja a sua maior falha como pessoa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual culpa você carrega que talvez nem fosse sua?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de reescrever na sua própria história?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação você terminou e ainda se pergunta como seria?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa difícil mudaria tudo se você tivesse coragem de ter?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a prova de coragem mais silenciosa da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você segurou quando deveria ter chorado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te mostrou quem você não quer mais ser?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que seja verdade sobre você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual perda ainda aparece nos seus pensamentos sem aviso?"
+    },
+    {
+      "type": "question",
+      "text": "O que você daria para ter mais um dia com alguém que se foi?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você ainda espera um pedido de desculpas?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa aceitar sobre alguém que ama?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu mais perdido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual ferida ainda dói quando alguém toca sem querer?"
+    },
+    {
+      "type": "question",
+      "text": "O que você está pronto para encarar sobre si mesmo hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você precisa deixar ir de uma vez?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua maior decepção com a vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que perdoassem em você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te visita justamente quando você está feliz demais?"
+    },
+    {
+      "type": "question",
+      "text": "Qual dor você transformou em algo que te orgulha?"
+    },
+    {
+      "type": "question",
+      "text": "O que você guardou por anos antes de conseguir falar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação mudou para sempre o seu jeito de confiar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter percebido antes em alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você morreu para que outra pudesse nascer?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que defina a sua vida quando ela acabar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual silêncio entre você e alguém pesa mais que qualquer briga?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisaria ouvir para se sentir finalmente perdoado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a despedida que mais te marcou?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde atrás do seu jeito forte?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre o amor você aprendeu sofrendo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo seu é tão antigo que virou parte de quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando pensa em quem já não está mais aqui?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre o seu valor você ainda não consegue acreditar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa com você mesmo você vem evitando há tempos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo a respeito de amar alguém de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter chorado e nunca chorou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você matou para conseguir sobreviver?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amor não correspondido mais marcou a sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual peso emocional você gostaria de finalmente colocar no chão?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que as pessoas vejam quando você baixa a guarda?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te ensinou um jeito novo e doloroso de amar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior coragem que ninguém viu você ter?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de sussurrar para o seu maior arrependimento?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você esconde por pura vergonha?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de dizer hoje a quem te machucou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te faz se afastar das pessoas que ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa soltar para enfim seguir em frente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez em que você se reconstruiu do absoluto zero?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde de quem te ama para não magoar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que falta para se sentir completo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual culpa merece, enfim, ser perdoada por você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que tivessem percebido em você quando precisou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mágoa antiga você ainda alimenta sem perceber?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme repetir de alguém que te criou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sofrimento te transformou na pessoa que você é hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sacrificou e ainda se pergunta se valeu a pena?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você só vem à tona na madrugada?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que está fingindo para o mundo todo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez em que você se sentiu mais vivo, mesmo doendo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação você gostaria de ter salvado quando ainda dava?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisava ter ouvido e nunca ouviu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você fingiu não se importar quando na verdade te destruía?"
+    },
+    {
+      "type": "question",
+      "text": "Qual momento você gostaria de poder apagar para sempre?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda guarda de alguém que saiu da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de mudar para melhor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa dizer a si mesmo e nunca disse?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança dolorosa também guarda algo bonito?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de fazer as pazes antes que seja tarde?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você esconde até de quem mais te ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa curar para seguir leve?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te define mais do que você gostaria de admitir?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter coragem de mudar agora mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez em que você se decepcionou consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre a felicidade você só entendeu na dor?"
+    },
+    {
+      "type": "question",
+      "text": "O que você nunca teve coragem de perguntar a alguém que amava?"
+    },
+    {
+      "type": "question",
+      "text": "Qual versão sua você sente que perdeu pelo caminho?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que alguém entendesse sem você precisar explicar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a noite mais difícil que você atravessou sozinho?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda espera ouvir de alguém específico?"
+    },
+    {
+      "type": "question",
+      "text": "Qual escolha sua você defende por fora e questiona por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que adiou na vida por medo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mágoa você fingiu esquecer só para manter a paz?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter feito diferente com seu tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua dor você nunca mostrou para ninguém?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme descobrir se olhar fundo demais para dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual relação te deixou marcas que você ainda esconde?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de dizer ao seu eu de dez anos atrás sobre a dor?"
+    },
+    {
+      "type": "question",
+      "text": "Qual perdão é o mais difícil de você conceder?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando lembra de uma promessa que não cumpriu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sonho você abandonou e ainda assombra suas noites?"
+    },
+    {
+      "type": "question",
+      "text": "O que você esconde para não preocupar quem te ama?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a vez em que você mais precisou ser abraçado e não foi?"
+    },
+    {
+      "type": "question",
+      "text": "O que você teme que reste de você quando tudo passar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre si mesmo você está quase pronto para aceitar?"
+    }
+  ]
+}

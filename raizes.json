@@ -1,0 +1,1211 @@
+{
+  "id": "raizes",
+  "theme": "Raízes",
+  "explores": "de onde você vem: infância, família, lugar e os momentos que te formaram",
+  "color": "#FCE3D2",
+  "textColor": "#6B3415",
+  "accent": "#D9783F",
+  "symbol": "🌱",
+  "cards": [
+    {
+      "type": "question",
+      "text": "Qual foi a brincadeira que você mais amava quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cômodo da casa onde você cresceu você lembra com mais detalhes?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cheiro te transporta na hora para a sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu esconderijo favorito quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual som da sua infância você não escuta mais hoje em dia?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua comida favorita feita por alguém da família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual desenho ou programa marcou as suas manhãs de criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu maior medo quando pequeno?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brinquedo você guardaria para sempre se pudesse?"
+    },
+    {
+      "type": "question",
+      "text": "Qual música tocava muito na sua casa quando você era criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua primeira grande amizade e como ela começou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua cidade natal você gostaria de revisitar agora?"
+    },
+    {
+      "type": "question",
+      "text": "Qual rua ou caminho da infância você ainda lembra de cor?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a rotina de domingo na sua família quando você era criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história da sua infância sempre contam sobre você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior arte que você aprontou quando pequeno?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu lugar favorito para passar as férias?"
+    },
+    {
+      "type": "question",
+      "text": "Qual professor ou professora da infância você nunca esqueceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual livro ou história te marcou quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua roupa ou fantasia favorita quando pequeno?"
+    },
+    {
+      "type": "question",
+      "text": "Que tradição da sua família você quer levar adiante?"
+    },
+    {
+      "type": "question",
+      "text": "Que tradição da sua família você acha que vai se perder?"
+    },
+    {
+      "type": "question",
+      "text": "Qual receita de família é sagrada para você?"
+    },
+    {
+      "type": "question",
+      "text": "De quem da sua família você herdou um jeito ou um traço?"
+    },
+    {
+      "type": "question",
+      "text": "Qual frase alguém da sua família repetia muito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parente teve mais influência em quem você é hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história da sua família você gostaria de saber mais a fundo?"
+    },
+    {
+      "type": "question",
+      "text": "De onde vem o seu nome e o que ele significa para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual objeto passou de geração em geração na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual reunião de família ficou marcada na sua memória?"
+    },
+    {
+      "type": "question",
+      "text": "O que você aprendeu observando seus pais ou quem te criou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual valor a sua família passou que você carrega até hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o prato típico das festas na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Que lugar a sua família considera 'as raízes' de vocês?"
+    },
+    {
+      "type": "question",
+      "text": "Qual avô, avó ou figura mais velha te marcou e por quê?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mania de família você percebe que tem também?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ter perguntado a alguém da família que já se foi?"
+    },
+    {
+      "type": "question",
+      "text": "Qual segredo ou história curiosa existe na sua árvore genealógica?"
+    },
+    {
+      "type": "question",
+      "text": "Como era a casa dos seus avós na sua memória?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conselho de alguém mais velho da família você nunca esqueceu?"
+    },
+    {
+      "type": "question",
+      "text": "O que faz um lugar virar 'lar' para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cidade ou bairro mais moldou quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "Qual paisagem te dá sensação de pertencimento?"
+    },
+    {
+      "type": "question",
+      "text": "Você se sente mais ligado ao lugar onde nasceu ou onde mora hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você defende com orgulho quando alguém critica?"
+    },
+    {
+      "type": "question",
+      "text": "Que parte da cultura da sua região você ama?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sotaque ou jeito de falar é o som de casa para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual comida representa o lugar de onde você vem?"
+    },
+    {
+      "type": "question",
+      "text": "Qual festa popular ou local marcou a sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Para onde você voltaria se sentisse saudade das suas origens?"
+    },
+    {
+      "type": "question",
+      "text": "Qual paisagem da sua infância você gostaria de mostrar para alguém?"
+    },
+    {
+      "type": "question",
+      "text": "O que mudou no lugar onde você cresceu desde que você era criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar te faz sentir pequeno e parte de algo maior?"
+    },
+    {
+      "type": "question",
+      "text": "Que costume da sua região as pessoas de fora acham estranho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ponto de encontro da sua adolescência?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o primeiro momento em que você se sentiu adulto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual experiência da juventude mudou o seu jeito de ver o mundo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você se sentiu orgulhoso de si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual decisão da sua família mudou o rumo da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual mudança de cidade ou casa marcou a sua história?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira perda importante que você viveu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conquista da adolescência ainda te dá orgulho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o seu primeiro grande desafio sozinho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual fase da sua vida você considera a mais formadora?"
+    },
+    {
+      "type": "question",
+      "text": "Qual erro de juventude te ensinou algo que você carrega?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você percebeu que tinha crescido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual primeira responsabilidade te fez sentir mais maduro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual viagem da juventude te transformou de algum jeito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amizade da adolescência te moldou como pessoa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a coisa mais corajosa que você fez antes dos 18?"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu cresci acreditando que...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Na minha casa, ninguém falava sobre...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A coisa mais valiosa que aprendi em casa foi...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Quando eu era criança, eu queria ser...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O lugar onde me sinto mais eu mesmo é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu herdei da minha família o hábito de...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O cheiro de casa pra mim é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A tradição que eu nunca vou abandonar é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Olhando pra trás, a infância me deu...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A primeira vez que me senti longe de casa foi...'"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira de rua você ensinaria a uma criança de hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual gosto ou sabor te lembra exatamente da casa da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a melhor festa de aniversário que você teve quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu programa favorito de fim de semana em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da natureza marcou a sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual animal de estimação da infância você nunca esqueceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu lugar na dinâmica da sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Quem te apresentou a algo que virou paixão na sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito de família vocês tinham na hora das refeições?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a viagem em família mais marcante que você fez?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brinquedo você mais desejava quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior felicidade simples da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa com alguém mais velho mudou a sua perspectiva?"
+    },
+    {
+      "type": "question",
+      "text": "Qual herança imaterial você recebeu da sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Que parte do seu jeito vem claramente de onde você cresceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você levaria seus filhos para conhecer suas origens?"
+    },
+    {
+      "type": "question",
+      "text": "Qual música tocava nas festas da sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o castigo mais comum na sua casa quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior aventura possível no seu quintal ou rua?"
+    },
+    {
+      "type": "question",
+      "text": "Qual figura da sua comunidade ou vizinhança te marcou?"
+    },
+    {
+      "type": "question",
+      "text": "Que comida da sua infância você tenta reproduzir hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu ritual antes de dormir quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história de antes de você nascer você adora ouvir?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você viajou para longe de casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual objeto da sua infância você daria tudo para reencontrar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual época do ano tinha o clima mais especial na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual jogo ou esporte fez parte da sua formação?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu sonho de criança que hoje te faz sorrir?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lição você só entendeu depois de crescer?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar guarda a sua memória de infância mais feliz?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a comida que você se recusava a comer quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual vizinho ou amigo da família era como parte da sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual livro alguém leu para você que te marcou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o melhor presente que você ganhou na infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual canção de ninar ou música infantil você ainda lembra?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua cidade mudou tanto que você quase não reconhece?"
+    },
+    {
+      "type": "question",
+      "text": "Qual habilidade você aprendeu com alguém da família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira grande mudança que você viveu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cômodo era o coração da casa onde você cresceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história engraçada da sua infância sempre fazem questão de relembrar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual tradição de fim de ano era especial na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a melhor companhia que você teve na infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar te dá a sensação imediata de nostalgia?"
+    },
+    {
+      "type": "question",
+      "text": "Qual valor você discorda da forma como foi criado, hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua criação você quer repetir com quem você cuida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior diversão num dia de chuva na sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu protegido pela família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o trajeto que você mais fazia quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual coisa da sua infância as crianças de hoje nunca vão entender?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua matéria favorita na escola e por quê?"
+    },
+    {
+      "type": "question",
+      "text": "Qual professor te fez gostar de aprender?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amigo de infância você gostaria de reencontrar hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira música que você amou de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o som da sua casa de manhã cedo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual comida de festa junina, natalina ou típica te traz memórias?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você considera o berço da sua história?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito dos seus pais você jurou que nunca teria e tem?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o conselho mais repetido na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual recordação da escola você guarda com carinho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua primeira grande responsabilidade na família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu refúgio quando precisava ficar sozinho na infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história da sua família mais te emociona?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a comida que significava 'dia especial' na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior aventura da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual coisa simples da sua criação você só valorizou depois de adulto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o lugar mais distante que você conheceu quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ritual da sua família nas datas importantes?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você percebeu de onde você vem?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maior fonte de orgulho quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança da sua avó ou avô te aquece o coração?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira coisa que você economizou para comprar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o cardápio do seu almoço de domingo em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você associa imediatamente à palavra 'casa'?"
+    },
+    {
+      "type": "question",
+      "text": "Qual aprendizado da infância você passaria adiante sem pensar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua brincadeira preferida com seus irmãos ou primos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a viagem que te mostrou um mundo diferente do seu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o presente mais esperado do ano na sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito de leitura, música ou arte veio da sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cômodo guardava os melhores momentos em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua versão de 'tesouro escondido' quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história sua os adultos contavam rindo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o primeiro lugar que você sentiu que era 'seu'?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira você inventava sozinho quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua primeira grande amizade que durou anos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual coisa da sua infância você recriaria para reviver a sensação?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ritmo da sua casa nos dias normais?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cheiro de comida significa 'infância' pra você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o melhor verão que você passou quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior fonte de risadas na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar te faz pensar 'aqui tudo começou'?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua primeira ambição quando alguém perguntava o que você queria ser?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a coisa que sua família te ensinou sem nunca falar em voz alta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu papel nas reuniões de família quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual época da sua vida você considera a mais inocente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira despedida difícil da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual objeto da casa dos seus avós você ainda consegue visualizar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual tradição você inventaria para a sua própria família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior descoberta da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a comida que reunia todo mundo na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança da infância você revive em sonhos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua história você gostaria de fotografar do jeito que era?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você se sentiu corajoso?"
+    },
+    {
+      "type": "question",
+      "text": "Qual herança você quer deixar para quem vier depois de você?"
+    },
+    {
+      "type": "dare",
+      "text": "Mostre uma foto antiga sua ou da sua família para o grupo."
+    },
+    {
+      "type": "dare",
+      "text": "Imite o jeito de falar de alguém da sua família que todo mundo reconhece."
+    },
+    {
+      "type": "dare",
+      "text": "Cante um trecho de uma música que tocava na sua casa quando criança."
+    },
+    {
+      "type": "dare",
+      "text": "Ligue ou mande mensagem agora para alguém da sua família que você ama."
+    },
+    {
+      "type": "dare",
+      "text": "Conte uma história de infância usando só mímica até alguém adivinhar o tema."
+    },
+    {
+      "type": "question",
+      "text": "Qual memória da sua infância você guardaria numa cápsula do tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você sentiu mais orgulho de onde veio?"
+    },
+    {
+      "type": "question",
+      "text": "Qual costume da sua casa você só percebeu que era incomum depois de adulto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ritual de chegada quando você voltava da escola?"
+    },
+    {
+      "type": "question",
+      "text": "Qual comida você associa à sua mãe ou a quem cozinhava na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o lugar mais aconchegante da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira música que você aprendeu a cantar inteira?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu maior tesouro material quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Que pessoa de fora da família foi como um parente para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior lição que você aprendeu com um erro de criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maneira favorita de matar o tempo nas férias?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar do passado você sonha em mostrar para alguém querido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu programa preferido com seus avós?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira você nunca conseguiu vencer quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o conselho mais estranho que alguém da família te deu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maior conquista na escola primária?"
+    },
+    {
+      "type": "question",
+      "text": "Que história da sua cidade natal você sempre conta para os outros?"
+    },
+    {
+      "type": "question",
+      "text": "Qual som da casa da sua infância você reconheceria de olhos fechados?"
+    },
+    {
+      "type": "question",
+      "text": "Qual figura da sua família era a mais divertida nas festas?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira amizade que terminou e te marcou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você considera o palco das suas melhores memórias?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cheiro da cozinha da sua infância você sente falta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior gentileza que alguém te fez quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brinquedo dividido com irmãos ou primos gerava mais briga?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a parte mais esperada do ano na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Que palavra ou expressão só faz sentido para quem cresceu como você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o primeiro lugar longe de casa que te encantou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito da sua infância você ainda mantém hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior surpresa boa da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a regra de ouro da sua casa quando você era criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história de família é tão antiga que ninguém sabe se é verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar te dá vontade de voltar no tempo só de pensar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o primeiro show, cinema ou evento que você foi com a família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual comida você só comia em ocasiões especiais quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu lugar à mesa nas refeições em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual objeto da sua casa de infância simbolizava conforto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a viagem mais longa que você fez quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior aventura possível dentro de casa em dias de chuva?"
+    },
+    {
+      "type": "question",
+      "text": "Qual professor te fez acreditar mais em você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual amigo da escola você gostaria de saber por onde anda?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maior fonte de alegria simples na infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual canção de festa você associa às reuniões da sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua primeira grande responsabilidade dentro de casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança da sua infância você acha que moldou seu jeito de amar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da natureza marcou as suas brincadeiras de criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maior curiosidade quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história sobre o seu nascimento sua família adora contar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior festa que aconteceu na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito de leitura ou estudo veio do exemplo da sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ponto de encontro da sua família nos fins de semana?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança da sua infância sempre te faz sorrir do nada?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você se sentiu parte de uma comunidade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o lugar onde toda a família se reunia para conversar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual tradição religiosa ou cultural marcou a sua criação?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o melhor presente que você deu para alguém da família quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior diversão num dia comum de semana?"
+    },
+    {
+      "type": "question",
+      "text": "Qual comida você aprendeu a fazer com alguém da família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história da sua avó ou avô você gostaria de gravar para sempre?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o seu maior medo de criança que hoje parece bobo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a paisagem que você via da janela do seu quarto de infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você visitava que parecia mágico quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você ajudou em casa de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual rotina da sua família você sente mais saudade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cômodo da casa antiga você ainda consegue desenhar de memória?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira você ensinaria para mostrar como era a sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira amizade que durou até hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cheiro de festa ou comemoração te traz boas lembranças?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história sua os adultos contavam sempre que você aparecia?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o som que anunciava que alguém querido tinha chegado em casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior aventura que você viveu com seus primos ou irmãos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua infância já não existe mais e te dá saudade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua refeição favorita preparada em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual hábito de carinho existia na sua casa quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a sua primeira grande viagem com a família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira de roda ou de rua você ainda lembra a letra?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você percebeu o quanto sua família te amava?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu canto de leitura ou de brincar preferido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual tradição de aniversário existia na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior bagunça que você fez e ainda lembra rindo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar representa o início de tudo para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conselho de infância você só entendeu quando cresceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você se sentiu corajoso na infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o lanche da tarde típico da sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história de família te emociona toda vez que ouve?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar você associa às melhores risadas da sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o seu primeiro grande sonho que você contou para a família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior fonte de aconchego nas noites frias da sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual brincadeira você inventou que só existia na sua família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira despedida que te ensinou sobre saudade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual objeto guardado pela família conta uma história importante?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o seu papel nas tarefas de casa quando criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lembrança você gostaria que nunca desbotasse com o tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a comida que reunia a família mesmo nos dias corridos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o lugar mais bonito que você conheceu ainda criança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual tradição você quer recriar para as próximas gerações?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o ritmo das manhãs de domingo na sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a maior alegria coletiva que sua família viveu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história contada pelos mais velhos você nunca esqueceu?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua infância tinha o melhor esconderijo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira vez que você cozinhou algo sozinho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a maior expectativa antes de uma viagem em família?"
+    },
+    {
+      "type": "question",
+      "text": "Qual cheiro de roupa, casa ou comida significa segurança pra você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a melhor lição de vida que veio de uma situação simples em casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar da sua infância você revisitaria só para sentir de novo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o brinquedo que todos os amigos queriam quando iam à sua casa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi o momento em que você se sentiu verdadeiramente acolhido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual história da sua família mistura humor e emoção ao mesmo tempo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era a sua maior alegria ao chegar na casa de um parente querido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual costume de mesa existia na sua família que você leva adiante?"
+    },
+    {
+      "type": "question",
+      "text": "Qual foi a primeira grande mudança que marcou a sua história?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lugar guarda a memória mais antiga que você consegue acessar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual era o som da sua casa em uma noite tranquila?"
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "id": "mundo-interior",
+  "theme": "Mundo Interior",
+  "explores": "o self mais privado: valores, medos, crenças, emoções e identidade",
+  "color": "#E6E0F2",
+  "textColor": "#3F3260",
+  "accent": "#7B68B0",
+  "symbol": "🌙",
+  "cards": [
+    {
+      "type": "question",
+      "text": "Qual valor você nunca abriria mão, custe o que custar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te acompanha há mais tempo?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir verdadeiramente em paz?"
+    },
+    {
+      "type": "question",
+      "text": "Qual crença sua mudou completamente nos últimos anos?"
+    },
+    {
+      "type": "question",
+      "text": "O que você pensa logo antes de dormir, na maioria das noites?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção é mais difícil para você demonstrar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá esperança mesmo nos dias ruins?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você ninguém vê, mas você gostaria que vissem?"
+    },
+    {
+      "type": "question",
+      "text": "O que significa estar bem para você hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento te ocupa quando você está sozinho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a solidão?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir orgulho silencioso quando ninguém está olhando?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior conflito interno hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você tem dificuldade de nomear?"
+    },
+    {
+      "type": "question",
+      "text": "O que te acalma quando a mente está agitada?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você levou tempo para aceitar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você faria diferente se ninguém te julgasse?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo a respeito do futuro?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir vivo de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a história que você conta para si mesmo sobre quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de perdoar em si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual versão sua você esconde do mundo?"
+    },
+    {
+      "type": "question",
+      "text": "O que te deixa genuinamente vulnerável?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua definição de coragem hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que você ainda está aprendendo a aceitar sobre a vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você sente que precisa controlar demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir pequeno diante do mundo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pergunta sobre você mesmo você ainda não respondeu?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá uma sensação de propósito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo nas relações com outras pessoas?"
+    },
+    {
+      "type": "question",
+      "text": "O que você valoriza em silêncio mas raramente fala em voz alta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua personalidade você mais gosta?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você é a mais difícil de lidar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir seguro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual crença te sustenta nos momentos difíceis?"
+    },
+    {
+      "type": "question",
+      "text": "O que mudaria se você se julgasse com mais gentileza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sonho você guarda mas tem medo de admitir?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir gratidão de forma espontânea?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua maior fonte de ansiedade hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa ouvir mais vezes de si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você considera a mais honesta?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir desconectado de você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual experiência te marcou tanto que mudou seus valores?"
+    },
+    {
+      "type": "question",
+      "text": "O que significa liberdade para você por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com o silêncio?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá força quando você quer desistir?"
+    },
+    {
+      "type": "question",
+      "text": "Qual peso emocional você gostaria de soltar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você descobriu sobre si nos últimos tempos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você evita sentir e por quê?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz se sentir compreendido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lado seu você desenvolveu com muito esforço?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz duvidar de si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria raiva?"
+    },
+    {
+      "type": "question",
+      "text": "O que você considera sagrado na sua vida interior?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento recorrente você gostaria de mudar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir profundamente feliz, sem motivo aparente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu refúgio mental quando o mundo aperta?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de entender melhor sobre as suas emoções?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você já superou e te orgulha?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que está no caminho certo?"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu me sinto mais eu mesmo quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que mais temo perder é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu finjo estar bem quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A coisa que mais me acalma é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu ainda carrego a culpa de...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Minha maior força interior é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que eu mais escondo das pessoas é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu me sinto vivo quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Minha mente fica em paz quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu preciso aprender a soltar...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O que me move de verdade é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu tenho orgulho secreto de...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'A emoção que mais me confunde é...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'Eu me sinto seguro quando...'"
+    },
+    {
+      "type": "question",
+      "text": "Complete: 'O meu maior conflito comigo mesmo é...'"
+    },
+    {
+      "type": "question",
+      "text": "Você acha que mostra ao mundo a sua verdadeira essência?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você guardou por tempo demais antes de processar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você diria para a versão mais assustada de você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua infância ainda influencia o seu interior?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa para se sentir inteiro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a diferença entre quem você é e quem você mostra ser?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir orgulho da pessoa que você se tornou?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você acha que herdou sem perceber?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de estar em casa dentro de si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a crença sobre você que você mais gostaria de mudar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você faz quando se sente perdido por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você confunde facilmente com outro?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faria sentir mais leve hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa interna você precisa ter consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que pertence a algum lugar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior padrão emocional que você gostaria de quebrar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você aprendeu sobre si nos seus piores momentos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual versão futura sua você gostaria de conhecer?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir merecedor de coisas boas?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te impede de fazer algo que você quer?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando está completamente sozinho e em silêncio?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você protege com mais cuidado?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir respeitado por você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu critério interno para saber se algo está certo?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir esperança a respeito de você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de sentir com mais frequência?"
+    },
+    {
+      "type": "question",
+      "text": "O que mudou na forma como você lida com a tristeza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria mente?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de estar realmente presente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você gostaria de reconciliar?"
+    },
+    {
+      "type": "question",
+      "text": "O que você considera o seu maior crescimento interior?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo seu já não faz mais sentido hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria que as pessoas soubessem sobre o seu mundo interno?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você mais reprime e por quê?"
+    },
+    {
+      "type": "question",
+      "text": "O que te ajuda a se reconectar consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua maior fonte de paz interna?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir grato por ser quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "Qual lado seu você descobriu recentemente?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa curar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento te liberta quando você o aceita?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir conectado a algo maior?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você mais admira nos outros?"
+    },
+    {
+      "type": "question",
+      "text": "O que te define quando ninguém está olhando?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria vulnerabilidade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que a vida tem sentido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você gostaria de enfrentar este ano?"
+    },
+    {
+      "type": "question",
+      "text": "O que você diz a si mesmo nos momentos de fraqueza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior aprendizado emocional até agora?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir verdadeiramente livre?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você merece mais reconhecimento?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que sempre soube sobre si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você acha mais difícil de explicar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz baixar a guarda com alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de ser conhecido de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te traz consolo quando você está mal?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você gostaria de desenvolver mais?"
+    },
+    {
+      "type": "question",
+      "text": "O que significa serenidade para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você teme que controle você?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa aceitar para seguir em frente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de envelhecer por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir corajoso mesmo com medo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual valor seu já entrou em conflito com o de quem você ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa proteger em você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de entender nos outros?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir genuíno?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua maior contradição interna?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir orgulho do seu caráter?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você esconde até de si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá clareza quando tudo parece confuso?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você é puramente sua, sem influência de ninguém?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que mudou em você nos últimos cinco anos?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção te visita sempre na mesma época do ano?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que vale a pena seguir tentando?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo em relação às suas escolhas?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir gratidão pela sua própria jornada?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento sobre você mesmo você quer abandonar de vez?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir digno de amor?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria ambição?"
+    },
+    {
+      "type": "question",
+      "text": "O que você aprendeu a respeitar em si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você guarda só para você?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir centrado num dia caótico?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você acha que ainda não floresceu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando pensa no seu propósito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te define mais do que você admite?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir profundamente conectado a alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua maior fonte de motivação interna?"
+    },
+    {
+      "type": "question",
+      "text": "O que você descobriu sobre o amor olhando para dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você associa à sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir confiante de verdade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de decepcionar a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de sussurrar ao seu coração hoje?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção te ensinou mais sobre a vida?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que está crescendo como pessoa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você esconde por medo de julgamento?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá serenidade no meio da incerteza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria felicidade?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda quer descobrir sobre si?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você transformou em força?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir em harmonia com você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior desejo emocional não dito?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que te torna único?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de sentir menos?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz olhar para si com orgulho?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu refúgio quando a vida pesa demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de cultivar mais dentro de você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você só mostra para quem confia muito?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que está sendo fiel a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de mudar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá paz no fim de um dia difícil?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você gostaria de transformar em palavras hoje?"
+    },
+    {
+      "type": "dare",
+      "text": "Diga em voz alta uma qualidade sua que você raramente admite ter."
+    },
+    {
+      "type": "dare",
+      "text": "Compartilhe com o grupo um medo que você nunca contou para ninguém aqui."
+    },
+    {
+      "type": "dare",
+      "text": "Feche os olhos por trinta segundos e depois diga a primeira emoção que veio."
+    },
+    {
+      "type": "dare",
+      "text": "Diga uma coisa gentil para si mesmo, em voz alta, olhando para o grupo."
+    },
+    {
+      "type": "dare",
+      "text": "Conte um momento em que você se orgulhou de quem você é."
+    },
+    {
+      "type": "question",
+      "text": "O que o seu silêncio costuma estar tentando te dizer?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa de mais coragem para admitir a si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você acha que define melhor quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir genuinamente confortável na própria pele?"
+    },
+    {
+      "type": "question",
+      "text": "Qual conversa interna te ajuda nos dias difíceis?"
+    },
+    {
+      "type": "question",
+      "text": "O que você descobriu que precisa para se sentir realizado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua mente você gostaria de entender melhor?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de estar no controle da sua vida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual valor seu já foi testado e saiu mais forte?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que o torna diferente das outras pessoas?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de aprender a aceitar sem julgar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que pertence ao mundo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo seu é o mais irracional, mas ainda assim real?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa para se sentir verdadeiramente descansado por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento te dá clareza quando a mente está turva?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir gratidão pela sua própria existência?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você floresce quando você está em paz?"
+    },
+    {
+      "type": "question",
+      "text": "O que você gostaria de ensinar à sua própria mente?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você considera o mais transformador?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a coragem de ser autêntico?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua maior fonte de motivação que vem de dentro?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa proteger no seu mundo interior?"
+    },
+    {
+      "type": "question",
+      "text": "Qual crença sobre você mesmo te limita sem necessidade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que está vivendo de acordo com seus valores?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de transformar em força?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando se permite ser vulnerável?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua mente você visita quando precisa de conforto?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir orgulho da sua própria evolução?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você guarda para os momentos só seus?"
+    },
+    {
+      "type": "question",
+      "text": "O que te ajuda a se reconectar com o que importa?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você está pronto para enfrentar de frente?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá serenidade mesmo diante do desconhecido?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria intuição?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa aprender sobre você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção te ensinou mais sobre a vida até agora?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir leve depois de um dia pesado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você gostaria de cultivar com mais carinho?"
+    },
+    {
+      "type": "question",
+      "text": "O que significa autoconhecimento para você na prática?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você associa à sua maior fase de crescimento?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir conectado com o seu propósito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre você você levou tempo demais para enxergar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá segurança emocional num relacionamento?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua personalidade surpreende as pessoas?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando finalmente solta algo que te pesava?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você acha mais difícil de controlar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir merecedor do seu próprio respeito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento recorrente você gostaria de transformar?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá esperança a respeito do seu futuro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo seu já se dissolveu com a maturidade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir verdadeiramente compreendido por alguém?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você esconde por achar que é demais?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que precisa equilibrar na sua vida interior?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção te aproxima mais das pessoas que você ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que está sendo honesto consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com as suas próprias expectativas?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de plenitude?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você gostaria de visitar com mais frequência?"
+    },
+    {
+      "type": "question",
+      "text": "O que você descobriu sobre a sua força nos momentos difíceis?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você gostaria que as pessoas conhecessem melhor?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir em harmonia com o mundo ao redor?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo te impede de ser completamente você?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando está em silêncio consigo mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você considera a mais sincera que existe?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá coragem para recomeçar?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você amadureceu mais nos últimos anos?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que ainda precisa perdoar em si mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior aprendizado emocional do último ano?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir profundamente em paz?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você gostaria de entender melhor nos outros?"
+    },
+    {
+      "type": "question",
+      "text": "O que te define quando você está completamente à vontade?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você transformou em motivação?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de estar no caminho certo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você você protege com mais cuidado?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando alguém realmente te enxerga?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção te conecta com a sua infância?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz acreditar no seu próprio valor?"
+    },
+    {
+      "type": "question",
+      "text": "Qual verdade sobre a felicidade você descobriu por conta própria?"
+    },
+    {
+      "type": "question",
+      "text": "O que te ajuda a manter a calma sob pressão?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte da sua mente é o seu refúgio?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando vive um momento de pura presença?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo você gostaria de soltar de vez este ano?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir orgulho silencioso de quem você é?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você gostaria de expressar com mais liberdade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te dá a sensação de estar inteiro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você ainda está em construção?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente que sempre soube sobre o seu propósito?"
+    },
+    {
+      "type": "question",
+      "text": "Qual sentimento você acha mais difícil de explicar em palavras?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz baixar a guarda com segurança?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior medo de ser realmente conhecido?"
+    },
+    {
+      "type": "question",
+      "text": "O que te traz consolo nos momentos de dúvida?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte sua você gostaria de desenvolver com mais coragem?"
+    },
+    {
+      "type": "question",
+      "text": "O que significa serenidade interior para você?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você teme que tenha controle sobre você?"
+    },
+    {
+      "type": "question",
+      "text": "O que você precisa aceitar para viver com mais leveza?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é a sua relação com a sua própria criatividade?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir que a sua vida tem significado?"
+    },
+    {
+      "type": "question",
+      "text": "Qual valor interno guia as suas decisões mais difíceis?"
+    },
+    {
+      "type": "question",
+      "text": "O que você diz a si mesmo quando precisa de força?"
+    },
+    {
+      "type": "question",
+      "text": "Qual é o seu maior crescimento emocional até hoje?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir verdadeiramente livre por dentro?"
+    },
+    {
+      "type": "question",
+      "text": "Qual parte de você merece mais reconhecimento seu?"
+    },
+    {
+      "type": "question",
+      "text": "O que você sente quando se permite simplesmente ser?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você guarda só para os momentos de solidão?"
+    },
+    {
+      "type": "question",
+      "text": "O que te ancora quando tudo parece incerto?"
+    },
+    {
+      "type": "question",
+      "text": "Qual medo antigo ainda influencia as suas escolhas?"
+    },
+    {
+      "type": "question",
+      "text": "O que te faz sentir profundamente grato pela sua jornada?"
+    },
+    {
+      "type": "question",
+      "text": "Qual pensamento te liberta quando você finalmente o aceita?"
+    },
+    {
+      "type": "question",
+      "text": "O que te conecta a algo maior do que você mesmo?"
+    },
+    {
+      "type": "question",
+      "text": "Qual emoção você mais admira nas pessoas que ama?"
+    },
+    {
+      "type": "question",
+      "text": "O que te define quando ninguém está observando?"
+    }
+  ]
+}
